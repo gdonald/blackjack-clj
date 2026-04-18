@@ -2,6 +2,12 @@
 
 This project provides the [Blackjack](https://en.wikipedia.org/wiki/Blackjack) card game written in [Clojure](https://clojure.org/).
 
+### Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/gdonald/blackjack-clj/refs/heads/main/ss1.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/gdonald/blackjack-clj/refs/heads/main/ss2.png)
+
 ### Install
 
 You will need the [Clojure CLI](https://clojure.org/guides/install_clojure) installed.
